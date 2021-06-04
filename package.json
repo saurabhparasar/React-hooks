@@ -1,13 +1,13 @@
 {
-  "name": "usestate-hook",
+  "name": "priceless-noyce",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "typescript": "3.3.3"
